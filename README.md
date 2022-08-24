@@ -7,7 +7,7 @@ I would like for developing web applications and working across the fullstack.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Cart-1
+- 🔭 I’m currently working on Project.
 - 🌱 I’m currently learning js,React,Redux
 - 👯 I’m looking to collaborate on Cart-1
 - 🤔 I’m looking for help with API
