@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with API
 - 💬 Ask me about HTML,CSS,Js,React,Redux.
 - 📫 How to reach me: rautmahii96@gmail.com
-- 😄 Pronouns: joke
-- ⚡ Fun fact: Tea
+
 
