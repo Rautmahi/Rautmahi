@@ -18,7 +18,7 @@ I am passionate Frontend Developer. I would like for developing web applications
 
 - 📫 How to reach me **rautmahii96@gmail.com**
 
-- 🔭 Know more about me **[Portfolio](https://peaceful-semifreddo-552428.netlify.app/)**
+- 🔭 Know more about me **[Portfolio](https://rautmahi.github.io/)**
 
 
 ## 🚀 Languages and Tools:
