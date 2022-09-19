@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh  Raut</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
-<img height="100px" src="https://wallpapercave.com/wp/wp10167060.jpg"/>
+<img height="400px" src="https://wallpapercave.com/wp/wp10167060.jpg"/>
 
 
 ## 🙋‍♂️ About Me
