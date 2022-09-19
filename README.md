@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahesh  Raut</h1>
 <h3 align="center">Full Stack Web Developer (MERN)</h3>
-<img src="https://imgs.search.brave.com/fc83ez-H7N_n6DLVoaJPQw7lUpQzXFLkm4UI2oKpJdQ/rs:fit:1050:467:1/g:ce/aHR0cHM6Ly9zY290/Y2gtcmVzLmNsb3Vk/aW5hcnkuY29tL2lt/YWdlL3VwbG9hZC93/XzEwNTAscV9hdXRv/Omdvb2QsZl9hdXRv/L3YxNTQwNTQ1NDI2/L3R6czUwbWpybG9w/djg1cjNxanBxLmpw/Zw"/>
+<img src="https://wallpapercave.com/wp/wp10167060.jpg"/>
 
 
 ## 🙋‍♂️ About Me
@@ -50,10 +50,10 @@ I am passionate Frontend Developer. I would like for developing web applications
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  align="center" alt="github"/>
 <img src ="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" align="center" alt="postman">
 <img src = "https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white" align="center" alt="npm">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
+  
    <br/>
 <br/>
-   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" align="center" alt="slack"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  </div>
 </div>
 
@@ -63,11 +63,12 @@ I am passionate Frontend Developer. I would like for developing web applications
  
  - Bewakoof.com-Clone  **[Github Repository](https://github.com/Rautmahi/Unit2ProjectBewakoof)**
 
- -  Movie-app  **[Github Repository](https://github.com/Rautmahi/MovieApp2)**
+ - Movie-app  **[Github Repository](https://github.com/Rautmahi/MovieApp2)**
 
- -Youtube-app **[Github Repository](https://github.com/Rautmahi/ES6--Youtube)**
+ - Youtube-app **[Github Repository](https://github.com/Rautmahi/ES6--Youtube)**
 
  - E-commerce **[Github Repository](https://github.com/Rautmahi/Ecommerce1)**
+ 
 <br/>
 <br/>
 
