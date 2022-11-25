@@ -6,7 +6,7 @@
 ## 🙋‍♂️ About Me
 
 
-I am passionate Frontend Developer. I would like for developing web applications and working across the fullstack.
+Full Stack Web Developer with a passion for developing web applications and  working across the full stack.<br/> and a proficient programmer in Mern and JavaScript.
 
 - 🔭 I’m currently Student of **[Masai School](https://www.masaischool.com/)**
 
@@ -56,10 +56,22 @@ I am passionate Frontend Developer. I would like for developing web applications
     <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white"  align="center" alt="vscode"/>
  </div>
 </div>
-
+<br/>
+<h2 align="center">Days I Code </h2>
+   <div align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rautmahi&" alt="rautmahi" />
+      </div>
+      <div align="center"'>
+      <img src="https://github-readme-stats.vercel.app/api?username=rautmahi&show_icons=true&locale=en" alt="rautmahi" />
+      </div>  
 
 ## 🚀 Top Projects :
+
+ - Asos.com-Clone  **[Github Repository](https://github.com/agodse21/Asos_clone)**
+
  - TheOutnet.com-Clone  **[Github Repository](https://github.com/satyamkumarjha2002/The_OutNet_Clone)**
+ 
+ - Indeed.com.com-Clone  **[Github Repository](https://github.com/Chhattoo25/curved-knee-365)**
  
  - Bewakoof.com-Clone  **[Github Repository](https://github.com/Rautmahi/Unit2ProjectBewakoof)**
 
