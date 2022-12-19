@@ -57,13 +57,18 @@ Full Stack Web Developer with a passion for developing web applications and  wor
  </div>
 </div>
 <br/>
-<h2 align="center">Days I Code </h2>
-   <div align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=rautmahi&" alt="rautmahi" />
-      </div>
-      <div align="center"'>
-      <img src="https://github-readme-stats.vercel.app/api?username=rautmahi&show_icons=true&locale=en" alt="rautmahi" />
-      </div>  
+
+<div align="center">
+ 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rautmahi&theme=light&hide_border=false" src="github" />
+ <br/>
+  <br/>
+ <img src="https://github-readme-stats.vercel.app/api?username=rautmahi&theme=light&hide_border=false&include_all_commits=false&count_private=false" alt="github" />
+ <br/>
+ <br/>
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rautmahi&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="github" /> -->
+</div>
+
 
 ## 🚀 Top Projects :
 
